@@ -1,0 +1,79 @@
+﻿  Projeto2.cpp
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(38,28): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(52,27): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(54,28): warning C4838: conversion from 'GLint' to 'GLfloat' requires a narrowing conversion
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(54,28): warning C4244: 'initializing': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(54,34): warning C4838: conversion from 'GLint' to 'GLfloat' requires a narrowing conversion
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(54,34): warning C4244: 'initializing': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(54,40): warning C4838: conversion from 'GLint' to 'GLfloat' requires a narrowing conversion
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(54,40): warning C4244: 'initializing': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(55,28): warning C4838: conversion from 'GLint' to 'GLfloat' requires a narrowing conversion
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(55,28): warning C4244: 'initializing': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(55,34): warning C4838: conversion from 'GLint' to 'GLfloat' requires a narrowing conversion
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(55,34): warning C4244: 'initializing': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(55,40): warning C4838: conversion from 'GLint' to 'GLfloat' requires a narrowing conversion
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(55,40): warning C4244: 'initializing': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(58,28): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(60,29): warning C4838: conversion from 'GLint' to 'GLfloat' requires a narrowing conversion
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(60,29): warning C4244: 'initializing': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(60,36): warning C4838: conversion from 'GLint' to 'GLfloat' requires a narrowing conversion
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(60,36): warning C4244: 'initializing': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(60,43): warning C4838: conversion from 'GLint' to 'GLfloat' requires a narrowing conversion
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(60,43): warning C4244: 'initializing': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(61,29): warning C4838: conversion from 'GLint' to 'GLfloat' requires a narrowing conversion
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(61,29): warning C4244: 'initializing': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(61,36): warning C4838: conversion from 'GLint' to 'GLfloat' requires a narrowing conversion
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(61,36): warning C4244: 'initializing': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(61,43): warning C4838: conversion from 'GLint' to 'GLfloat' requires a narrowing conversion
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(61,43): warning C4244: 'initializing': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(156,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(280,40): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(280,57): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(281,28): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(281,28): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(281,55): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(281,55): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(407,20): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(481,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(482,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(494,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(495,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(507,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(508,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(520,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(521,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(549,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(551,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(572,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(573,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(582,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(583,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(592,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(594,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(595,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(605,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(606,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(616,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(617,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(626,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(627,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(662,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(664,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(665,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(666,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(685,20): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(755,34): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(772,34): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(804,31): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(836,33): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(843,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(848,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(863,47): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(864,47): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(865,46): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(866,46): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(867,46): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(868,46): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(872,19): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Projeto2\Projeto2.cpp(873,19): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Projeto2.vcxproj -> C:\Users\LuisL\OneDrive\Ambiente de Trabalho\3 ano\CG\Projeto2\Debug\Projeto2.exe
